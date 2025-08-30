@@ -1,5 +1,5 @@
 ## Olá, sou Raykaalm 👋
-Desenvolvedor Python apaixonado por resolver problemas e explorar novas tecnologias. Atualmente, estou focado em aprendizado de máquinas e automação.
+Desenvolvedor Python apaixonado por resolver problemas e explorar novas tecnologias. Atualmente, estou focada em melhoras meus conhecimentos no ramo da tecnologia e em rumo a faculdade de Relações Internacionais
 
 ### 🛠️ Tecnologias que uso
 ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)
