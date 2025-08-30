@@ -1,14 +1,14 @@
-# Olá, sou a Rayka 👋
+## Olá, sou Raykaalm 👋
+Desenvolvedor Python apaixonado por resolver problemas e explorar novas tecnologias. Atualmente, estou focado em aprendizado de máquinas e automação.
 
-Desenvolvedor apaixonado por tecnologia e aprendizado contínuo.
+### 🛠️ Tecnologias que uso
+![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)
 
-🚀 Habilidades:
-- linguagens: Inglês
-- programação: em aprendizado
 
-📈 Atualmente aprendendo:
-- Python
+### 🚀 Top Linguagens
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raykaalm&layout=compact&theme=dark)
 
-📧 Me encontre em:
-- [LinkedIn](https://www.linkedin.com/in/rayane-lima-80b812381/)
-- [Instagram](https://instagram.com/r.anevr)
+### 🌍 Onde me encontrar
+- [LinkedIn](https://https://www.linkedin.com/in/rayka-rayane-80b812381/)
+- [Instagram](https://www.instagram.com/r.anevr/)
+
