@@ -5,7 +5,6 @@ Desenvolvedor apaixonado por tecnologia e aprendizado contínuo.
 🚀 Habilidades:
 - linguagens: Inglês
 - programação: em aprendizado
-- 
 
 📈 Atualmente aprendendo:
 - Python
