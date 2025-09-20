@@ -1,4 +1,4 @@
-## Olá, sou Raykaalm 👋
+## Olá, sou a Rayka👋
 Desenvolvedor Python apaixonado por resolver problemas e explorar novas tecnologias. Atualmente, estou focada em melhoras meus conhecimentos no ramo da tecnologia e em rumo a faculdade de Relações Internacionais.
 
 ### 🛠️ Tecnologias que uso
